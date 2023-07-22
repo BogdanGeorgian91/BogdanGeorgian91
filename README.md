@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi, I'm Bogdan :wave:
+
+React Native developer
+Interested in building fun, interactive, and beautiful experiences.
 
 <br>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
