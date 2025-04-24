@@ -1,7 +1,7 @@
 # Hi, I'm Bogdan :wave:
 
 Front End developer
-Interested in building fun, interactive, and beautiful experiences.
+Interested in building good UI and UX.
 
 <br>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
