@@ -1,6 +1,6 @@
 # Hi, I'm Bogdan :wave:
 
-React Native developer
+Front End developer
 Interested in building fun, interactive, and beautiful experiences.
 
 <br>
