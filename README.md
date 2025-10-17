@@ -1,9 +1,6 @@
 # Hi, I'm Bogdan :wave:
 
-Front End developer
-Interested in building good UI and UX.
-
-<br>
+<!-- <br>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <p align="center">
   <code><img title="Javascript" height="45" src="javascript.svg"></code>
@@ -20,7 +17,7 @@ Interested in building good UI and UX.
   <code><img title="GitHub" height="45" src="github.svg"></code>
   <code><img title="npm" height="45" src="npm.svg"></code>
 </p>
-<hr>
+<hr> -->
 
 
 
