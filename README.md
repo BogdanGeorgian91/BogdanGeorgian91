@@ -1,7 +1,5 @@
 # Hi, I'm Bogdan 👋
 
-**iOS & React Native developer — Bucharest, Romania.**
-
 I design, build and ship mobile and web apps end to end: native iOS and macOS in Swift and
 SwiftUI, cross-platform in React Native and Expo, and the backends when a project needs
 one. I lean on coding agents — mostly Claude Code and OpenCode — to move faster across
