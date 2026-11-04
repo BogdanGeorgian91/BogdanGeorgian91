@@ -1,8 +1,7 @@
 # Hi, I'm Bogdan 👋
 
-I design, build and ship mobile and web apps end to end: native iOS and macOS in Swift and
-SwiftUI, cross-platform in React Native and Expo, and the backends when a project needs
-one. I lean on coding agents — mostly Claude Code and OpenCode — to move faster across
+I design, build and ship mobile and web apps end to end, and the backends when a project
+needs one. I lean on coding agents — mostly Claude Code and OpenCode — to move faster across
 the whole stack. Eight apps on the App Store and Google Play, plus a few open-source
 libraries for the gaps I kept hitting along the way.
 
