@@ -2,7 +2,7 @@
 
 I design, build and ship mobile and web apps end to end, and the backends when a project
 needs one. I lean on coding agents — mostly Claude Code and OpenCode — to move faster across
-the whole stack. Eight apps on the App Store and Google Play, plus a few open-source
+the whole stack. Nine apps on the App Store and Google Play, plus a few open-source
 libraries for the gaps I kept hitting along the way.
 
 🟢 **Available for freelance and contract work.**
@@ -11,6 +11,7 @@ libraries for the gaps I kept hitting along the way.
 
 | App | What it is | Platforms |
 | --- | --- | --- |
+| [Mosaic](https://boogdan.com/apps/mosaic/) | A daily journal that fills in on its own — Apple Health workouts, moods and mindful minutes beside your notes, shared with the people you invite | iOS · iPadOS · macOS |
 | [PayShare](https://payshare.boogdan.com/) | Expense, budget and savings tracking for couples — Apple Wallet automation, private iCloud sync | iOS · iPadOS · macOS |
 | [Schulte Table Game](https://schulte.boogdan.com/) | Peripheral vision and attention training in five minutes a day | iOS · iPadOS · Android |
 | [Brainrot](https://mindback.boogdan.com/) | Adaptive dual N-back working-memory training, no dopamine traps | iOS · iPadOS · macOS · Android |
