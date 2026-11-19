@@ -2,7 +2,7 @@
 
 I design, build and ship mobile and web apps end to end, and the backends when a project
 needs one. I lean on coding agents — mostly Claude Code and OpenCode — to move faster across
-the whole stack. Nine apps on the App Store and Google Play, plus a few open-source
+the whole stack. Ten apps on the App Store and Google Play, plus a few open-source
 libraries for the gaps I kept hitting along the way.
 
 🟢 **Available for freelance and contract work.**
@@ -12,14 +12,15 @@ libraries for the gaps I kept hitting along the way.
 | App | What it is | Platforms |
 | --- | --- | --- |
 | [Mosaic](https://boogdan.com/apps/mosaic/) | A daily journal that fills in on its own — Apple Health workouts, moods and mindful minutes beside your notes, shared with the people you invite | iOS · iPadOS · macOS |
-| [PayShare](https://payshare.boogdan.com/) | Expense, budget and savings tracking for couples — Apple Wallet automation, private iCloud sync | iOS · iPadOS · macOS |
+| [PayShare](https://payshare.boogdan.com/) <sub><img src="https://boogdan.com/assets/mosaic-icon-256.webp" width="12" height="12" alt=""> [In Mosaic](https://boogdan.com/apps/mosaic/)</sub> | Expense, budget and savings tracking for couples — Apple Wallet automation, private iCloud sync | iOS · iPadOS · macOS |
+| [Tessera](https://boogdan.com/apps/tessera/) <sub><img src="https://boogdan.com/assets/mosaic-icon-256.webp" width="12" height="12" alt=""> [In Mosaic](https://boogdan.com/apps/mosaic/)</sub> | Focus timer for iPhone and Apple Watch — sessions on your intentions lay colored tiles, 25 minutes at a time | iOS · iPadOS · watchOS |
 | [Schulte Table Game](https://schulte.boogdan.com/) | Peripheral vision and attention training in five minutes a day | iOS · iPadOS · Android |
-| [Brainrot](https://mindback.boogdan.com/) | Adaptive dual N-back working-memory training, no dopamine traps | iOS · iPadOS · macOS · Android |
-| [Sirch](https://sirch.boogdan.com/) | Visual search-query builder — operators and URL params across 20 engines | iOS · iPadOS · macOS · Android |
-| [Wand](https://boogdan.com/apps/wand/) | Apple Watch remote for video on iPhone and iPad — YouTube links or local files, with optional Health workouts | iOS · iPadOS · watchOS |
+| [Brainrot](https://mindback.boogdan.com/) <sub><img src="https://boogdan.com/assets/mosaic-icon-256.webp" width="12" height="12" alt=""> [In Mosaic](https://boogdan.com/apps/mosaic/)</sub> | Adaptive dual N-back working-memory training, no dopamine traps | iOS · iPadOS · macOS · Android |
+| [Sirch](https://sirch.boogdan.com/) <sub><img src="https://boogdan.com/assets/mosaic-icon-256.webp" width="12" height="12" alt=""> [In Mosaic](https://boogdan.com/apps/mosaic/)</sub> | Visual search-query builder — operators and URL params across 20 engines | iOS · iPadOS · macOS · Android |
+| [Wand](https://boogdan.com/apps/wand/) <sub><img src="https://boogdan.com/assets/mosaic-icon-256.webp" width="12" height="12" alt=""> [In Mosaic](https://boogdan.com/apps/mosaic/)</sub> | Apple Watch remote for video on iPhone and iPad — YouTube links or local files, with optional Health workouts | iOS · iPadOS · watchOS |
 | [Rewrite](https://boogdan.com/apps/rewrite/) | Writing app with checkpoints, branches and merging — counts a draft for 20 social platforms and hands it off to each | iOS · iPadOS |
 | [Math Logic Path](https://mathpuzzle.boogdan.com/) | Number-grid logic puzzles across four rules and six difficulties | iOS · iPadOS · macOS · Android |
-| [Breathe](https://breathe.boogdan.com/) | Guided breathing for calm, focus and sleep — keeps running with the screen locked | iOS · iPadOS · macOS · Android |
+| [Breathe](https://breathe.boogdan.com/) <sub><img src="https://boogdan.com/assets/mosaic-icon-256.webp" width="12" height="12" alt=""> [In Mosaic](https://boogdan.com/apps/mosaic/)</sub> | Guided breathing for calm, focus and sleep — keeps running with the screen locked | iOS · iPadOS · macOS · Android |
 
 None of them needs an account.
 
